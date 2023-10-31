@@ -1,4 +1,4 @@
-# LT-TV-Programa
+# LT TV-Programa
 `About:`
 LT TV Program is an archival project that chronicles Lithuania's television history, spanning from the 1990s to the present. 
 
