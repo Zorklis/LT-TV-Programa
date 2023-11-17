@@ -1,5 +1,7 @@
 ![LT TV](https://github.com/Zorklis/LT-TV-Programa/assets/85455465/13b126dc-9e34-4f4b-9a7b-ec295b6ce258)
 
+# PROGRESS: 1%
+
 # LT TV-Programa
 `About:`
 LT TV Program is an archival project that chronicles Lithuania's television history, spanning from the 1990s to the present. 
