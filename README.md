@@ -18,4 +18,5 @@ Lietuvos televizijos programos archyvas tai projektas, kuris dokumentuoja Lietuv
 - Add logos for the channels. +Find and note the logo transition dates.
 - Add EVERY channels.
 - Find and add ALL TV Guides.
+- Add ever older DATES than beyond 1990's. (as Television in Lithuania was introduced in 1957 or even earlier)
 - Probably out of the scope of this project but.. Include/Recover videos/clips/recordings of old broadcastings. Making the most concise playback possible! Unlikely, reason: #LOST MEDIA.
