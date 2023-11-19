@@ -16,7 +16,7 @@ Lietuvos televizijos programos archyvas tai projektas, kuris dokumentuoja Lietuv
 # `To-Do`:
 - FIX THE FORMATTING in TV3, IT'S A MESS!!!
 - FIX Duplicate 2009 in TV3. [When I finished the year 2009, I found a more detailed one that I included below it. Old 2009 needs to be updated with the better one that has episode numbers.]
-- Separate into years. +Remove ODS, CSV is the format GitHub can show raw text and be edited easily (unless too big, look at point one as solution)
+- Separate into years. While CSV is the format GitHub can show raw text (+ edited easily) unless too much text. [Solution would be to to separate into years?]
 - Add logos for the channels. +Find and note the logo transition dates.
 - Add EVERY channels.
 - Find and add ALL TV Guides.
