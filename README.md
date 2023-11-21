@@ -1,4 +1,5 @@
-![LT TV](https://github.com/Zorklis/LT-TV-Programa/assets/85455465/13b126dc-9e34-4f4b-9a7b-ec295b6ce258)
+![LT TV Logo](https://github.com/Zorklis/LT-TV-Programa/assets/85455465/8af21558-6863-4625-adc1-d24045149992)
+
 
 # PROGRESS: 1%
 
