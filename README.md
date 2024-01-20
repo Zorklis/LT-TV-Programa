@@ -1,7 +1,7 @@
 ![LT TV Logo](https://github.com/Zorklis/LT-TV-Programa/assets/85455465/8af21558-6863-4625-adc1-d24045149992)
 
 
-# PROGRESS: 1%
+# PROGRESS: 2%
 
 # LT TV-Programa
 `About:`
