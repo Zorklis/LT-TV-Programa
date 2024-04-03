@@ -1,6 +1,10 @@
 ![LT TV Logo](https://github.com/Zorklis/LT-TV-Programa/assets/85455465/8af21558-6863-4625-adc1-d24045149992)
 
 
+
+[📩Open Letter to TV Channels](https://github.com/Zorklis/LT-TV-Programa/wiki/Open-letter-to-Television-channels) (To preserve)
+--
+
 # PROGRESS: 4%
 
 # LT TV-Programa
