@@ -6,7 +6,7 @@
 --
 
 ---
-### [Tinklalapiai archyvavimui / Pages to archive](https://github.com/Zorklis/LT-TV-Programa/tree/TV-Programos/Templates/Informacija/Tinklalapiai%20archyvavimui)
+### [Tinklalapiai archyvavimui / Pages to archive](https://github.com/Zorklis/LT-TV-Programa/tree/TV-Programos/Templates%20/%20Informacija/Tinklalapiai%20archyvavimui)
 ---
 
 
