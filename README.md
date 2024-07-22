@@ -20,7 +20,7 @@ Lietuvos Televizijos Programos Archyvas yra projektas, kurio tikslas yra dokumen
 
 # LT TV-Program
 `About:`
-The Lithuanian Television Programme Archive is a project that has a goal to document the history of Lithuanian television from April 30th, 1957 to the present day.
+The Lithuanian Television Program Archive is a project that has a goal to document the history of Lithuanian television from April 30th, 1957 to the present day.
 
 This project is a window into the past and present of Lithuanian television, preserving the nation's broadcasting heritage for generations to come!
 
