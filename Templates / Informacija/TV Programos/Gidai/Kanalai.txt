@@ -1,12 +1,12 @@
-1. https://lnk.lt/tv-programa#tv1
-2. https://lnk.lt/tv-programa#lnk
-3. https://www.tv3.lt/programos/tv3/pilna/
-4. https://lnk.lt/tv-programa#btv
-5. https://tv.lrytas.lt/tvprograma
-6. https://www.tv3.lt/programos/tv6/pilna/
-7. https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija  || https://www.lrt.lt/programa
-8. https://www.lrt.lt/mediateka/tiesiogiai/lrt-plius || https://www.lrt.lt/programa
-9. https://www.lrt.lt/mediateka/tiesiogiai/lrt-lituanica || https://www.lrt.lt/programa
+https://lnk.lt/tv-programa#tv1
+https://lnk.lt/tv-programa#lnk
+https://www.tv3.lt/programos/tv3/pilna/
+https://lnk.lt/tv-programa#btv
+https://tv.lrytas.lt/tvprograma
+https://www.tv3.lt/programos/tv6/pilna/
+https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija  || https://www.lrt.lt/programa
+https://www.lrt.lt/mediateka/tiesiogiai/lrt-plius || https://www.lrt.lt/programa
+https://www.lrt.lt/mediateka/tiesiogiai/lrt-lituanica || https://www.lrt.lt/programa
 
 Kiti Kanalai:
 AVVA - 
