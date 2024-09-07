@@ -11,7 +11,7 @@
 ### [Kanalų programų puslapiai](https://github.com/Zorklis/LT-TV-Programa/blob/TV-Programos/Templates%20/%20Informacija/TV%20Programos/Gidai/Kanalai.txt)
 ---
 ---
-❗### [Tinklalapiai archyvavimui / Pages to archive](https://github.com/Zorklis/LT-TV-Programa/tree/TV-Programos/Templates%20/%20Informacija/Tinklalapiai%20archyvavimui)❗
+### [Tinklalapiai archyvavimui / Pages to archive](https://github.com/Zorklis/LT-TV-Programa/tree/TV-Programos/Templates%20/%20Informacija/Tinklalapiai%20archyvavimui)❗
 ---
 # LT TV-Programa
 `Apie:`
