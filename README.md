@@ -5,14 +5,14 @@
 [📩Open Letter to TV Channels](https://github.com/Zorklis/LT-TV-Programa/wiki/Open-letter-to-Television-channels) (To preserve)
 --
 
+# PROGRESS: 4%
+[📺👀Kur žiūrėti televizija](https://github.com/Zorklis/LT-TV-Programa/blob/TV-Programos/Templates%20/%20Informacija/Kur%20%C5%BEi%C5%ABr%C4%97ti%20televizija/Televizija.csv)
+---
+### [Kanalų programų puslapiai](https://github.com/Zorklis/LT-TV-Programa/blob/TV-Programos/Templates%20/%20Informacija/TV%20Programos/Gidai/Kanalai.txt)
+---
 ---
 ### [Tinklalapiai archyvavimui / Pages to archive](https://github.com/Zorklis/LT-TV-Programa/tree/TV-Programos/Templates%20/%20Informacija/Tinklalapiai%20archyvavimui)
 ---
-
-
-# PROGRESS: 4%
-[📺👀Kur žiūrėti televizija](https://github.com/Zorklis/LT-TV-Programa/blob/TV-Programos/Templates%20/%20Informacija/Kur%20%C5%BEi%C5%ABr%C4%97ti%20televizija/Televizija.csv)
-
 # LT TV-Programa
 `Apie:`
 Lietuvos Televizijos Programos Archyvas yra projektas, kurio tikslas yra dokumentuoti Lietuvos televizijos istoriją nuo 1957 m. balandžio 30 d. iki šių dienų.
