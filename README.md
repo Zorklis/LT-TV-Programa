@@ -11,7 +11,7 @@
 
 
 # PROGRESS: 4%
-[👀Kur žiūrėti televizija](https://github.com/Zorklis/LT-TV-Programa/blob/TV-Programos/Templates%20/%20Informacija/Kur%20%C5%BEi%C5%ABr%C4%97ti%20televizija/Televizija.csv)
+[📺👀Kur žiūrėti televizija](https://github.com/Zorklis/LT-TV-Programa/blob/TV-Programos/Templates%20/%20Informacija/Kur%20%C5%BEi%C5%ABr%C4%97ti%20televizija/Televizija.csv)
 
 # LT TV-Programa
 `Apie:`
