@@ -17,6 +17,7 @@ Balticum TV - https://www.balticum.lt/tv-programa/
 Cartoon Network - 
 Delfi TV - https://www.delfi.lt/puslapis/tv-programa/kanalai/delfi tv
 Epic Drama -
+Etaplius TV - https://www.etaplius.tv/
 FilmZone+ - 
 FilmZone - 
 GNTV - https://www.gntv.lt/programa/
@@ -48,6 +49,5 @@ Go3 Sport Open -
 TV8 - https://www.tv3.lt/programos/tv8/pilna
 Go3 Sport 2 - 
 Go3 Sport 1 - 
-Šiaulių Televizija (STV) - https://stv.lt/programa/
 Šilutės Televizija|Šilutės Web TV - 
 Žvaigždė - 
