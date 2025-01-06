@@ -6,3 +6,4 @@ https://www.15min.lt/tv/siandien?group=2
 https://www.delfi.lt/puslapis/tv-programa
 https://rodo.lt/
 https://www.lrytas.lt/tvprograma
+https://www.tv3.lt/programos
