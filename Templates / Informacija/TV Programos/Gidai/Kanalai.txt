@@ -23,6 +23,7 @@ FilmZone -
 Info TV - https://lnk.lt/tv-programa#infotv
 Init Ekstra TV - https://www.init-tv.lt/ekstra.htm
 Init TV - https://www.init-tv.lt/init_tv.htm
+JPtv - https://jptv.lt/programa/
 JimJam - 
 TV7 - https://www.cgates.lt/tv-kanalai/tv7/
 KidZone Max - https://kidzonemax.lt/lt/epg
