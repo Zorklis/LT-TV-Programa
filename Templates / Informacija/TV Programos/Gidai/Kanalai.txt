@@ -19,7 +19,7 @@ Delfi TV - https://www.delfi.lt/puslapis/tv-programa/kanalai/delfi tv
 Epic Drama -
 Etaplius TV - https://www.etaplius.tv/
 FilmZone+ - 
-FilmZone - 
+FilmZone - https://www.filmzone.lt/lt/epg
 Info TV - https://lnk.lt/tv-programa#infotv
 Init Ekstra TV - https://www.init-tv.lt/ekstra.htm
 Init TV - https://www.init-tv.lt/init_tv.htm
