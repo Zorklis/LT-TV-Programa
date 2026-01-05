@@ -21,6 +21,17 @@ The Lithuanian Television Program Archive is a project that has a goal to docume
 
 This project is a window into the past and present of Lithuanian television, preserving the nation's broadcasting heritage for generations to come!
 
+---
+
+# LTMedia Discord
+`LT:`
+Prisijunk prie LTMedia „Discord“ serverio – https://discord.gg/9cbypQjjBm
+
+`EN:`
+Join the LTMedia discord - https://discord.gg/9cbypQjjBm
+
+---
+
 # `To-Do`:
 Solve issues
 https://github.com/Zorklis/LT-TV-Programa/issues
