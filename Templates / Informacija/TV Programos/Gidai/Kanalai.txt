@@ -21,8 +21,6 @@ Etaplius TV - https://www.etaplius.tv/
 FilmZone+ - 
 FilmZone - https://www.filmzone.lt/lt/epg
 Info TV - https://lnk.lt/tv-programa#infotv
-Init Ekstra TV - https://www.init-tv.lt/ekstra.htm
-Init TV - https://www.init-tv.lt/init_tv.htm
 JPtv - https://jptv.lt/programa/
 JimJam - 
 TV7 - https://www.tv24.lt/kanalas/tv7
@@ -35,7 +33,6 @@ Nick Jr -
 Nickelodeon - 
 Nicktoons - 
 Pingviniukas - https://kis.lt/chanels/pingviniukas/
-Play TV - https://www.init-tv.lt/play.htm
 Pūkas-TV - hasn't been updated since 2023.
 Roventa - 
 SPORT1 - http://www.sport1.lt/tv-programa
@@ -51,3 +48,8 @@ Go3 Sport 2 -
 Go3 Sport 1 - 
 Šilutės Televizija|Šilutės Web TV - 
 Žvaigždė - 
+
+==ENDED==
+Init Ekstra TV - https://www.init-tv.lt/ekstra.htm
+Init TV - https://www.init-tv.lt/init_tv.htm
+Play TV - https://www.init-tv.lt/play.htm
