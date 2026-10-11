@@ -25,10 +25,10 @@ This project is a window into the past and present of Lithuanian television, pre
 
 # LTMedia Discord
 `LT:`
-Prisijunk prie LTMedia „Discord“ serverio – https://discord.gg/zfHMZ5A4s8
+Prisijunk prie LTMedia „Discord“ serverio – https://discord.gg/gSNgBAXq6d
 
 `EN:`
-Join the LTMedia discord - https://discord.gg/zfHMZ5A4s8
+Join the LTMedia discord - https://discord.gg/gSNgBAXq6d
 
 ---
 
